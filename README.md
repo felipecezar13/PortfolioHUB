@@ -68,7 +68,8 @@ www.linkedin.com/in/felipemedeirosc
 
 
 
-### 📄 Currículo Lattes
+### 📄 site Portifólio
+https://felipecezar13.github.io/PortfolioHUB/#projetos
 
 
 ### 📧 E-mail
