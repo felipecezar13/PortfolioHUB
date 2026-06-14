@@ -64,8 +64,7 @@ A tecnologia está sempre mudando, e eu também! Este portfólio será atualizad
 ## 📫 Contato
 
 ### 🔗 LinkedIn
-www.linkedin.com/in/
-felipemedeirosc
+www.linkedin.com/in/felipemedeirosc
 
 
 
