@@ -1,3 +1,7 @@
+// Sempre abrir o site no início da página
+if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+if (location.hash) history.replaceState(null, '', location.pathname + location.search);
+window.scrollTo(0, 0);
 // Habilidades (somente as comprovadas no currículo). Ícones: Devicon (CDN); sem ícone, usa emoji.
 const D = n => `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/${n}.svg`;
 const SKILLS = {
