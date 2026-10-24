@@ -5,7 +5,7 @@ window.scrollTo(0, 0);
 // Habilidades (somente as comprovadas no currículo). Ícones: Devicon (CDN); sem ícone, usa emoji.
 const D = n => `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/${n}.svg`;
 const SKILLS = {
-  'Linguagens e desenvolvimento': [['Python',D('python/python-original')],['SQL',null,'🗄️'],['Linguagem C',D('c/c-original')],['HTML',D('html5/html5-original')],['CSS',D('css3/css3-original')],['Bash',D('bash/bash-original')]],
+'Linguagens e desenvolvimento': [['Python',D('python/python-original')],['SQL',null,'🗄️'],['Linguagem C',D('c/c-original')],['HTML',D('html5/html5-original')],['CSS',D('css3/css3-original')],['JavaScript',D('javascript/javascript-original')],['Bash',D('bash/bash-original')]],
   'Versionamento e ferramentas': [['Git',D('git/git-original')],['GitHub',D('github/github-original'),null,true],['Visual Studio Code',D('vscode/vscode-original')]],
   'Dados e produtividade': [['Bancos de dados relacionais',null,'🛢️'],['Análise de dados',null,'📊'],['Microsoft Word',null,'📝'],['Microsoft Excel',null,'📈'],['Microsoft PowerPoint',null,'📽️'],['Google Workspace',D('google/google-original')]],
   'Design e inteligência artificial': [['Web design',null,'🎨'],['Figma',D('figma/figma-original')],['Engenharia de prompts com IA',null,'🤖']]
