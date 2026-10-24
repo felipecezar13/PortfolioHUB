@@ -2,18 +2,16 @@
 
 Obrigado por contribuir com o PortfolioHUB. Este documento apresenta as práticas adotadas para manter o projeto seguro, organizado e alinhado aos padrões de desenvolvimento estabelecidos.
 
-# Guia de Contribuição e Segurança
-
-Obrigado por contribuir com o PortfolioHUB. Este documento apresenta as práticas adotadas...
-
 ## 🛡️ Como reportar uma vulnerabilidade
-(o bloco novo)
+
+Se encontrar um problema de segurança, **não abra uma issue pública**. Use a aba *Security* > *Report a vulnerability* deste repositório ou envie um e-mail para felipecezar0412@gmail.com com a descrição do problema, os passos para reproduzir e o impacto esperado. A resposta é dada em até 7 dias.
 
 ## ✅ Medidas de segurança adotadas
-(o bloco novo)
 
-## 🔒 Regras de Segurança da Branch Principal
-(o que você já tinha)
+* Autenticação em dois fatores ativada na conta do mantenedor.
+* Nenhuma senha, chave de API ou dado pessoal sensível é armazenado no repositório.
+* Monitoramento de dependências e de segredos pelos recursos de segurança do GitHub.
+* Links externos abertos com `rel="noopener noreferrer"`.
 
 ## 🔒 Regras de Segurança da Branch Principal
 
