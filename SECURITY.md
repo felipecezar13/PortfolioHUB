@@ -2,6 +2,19 @@
 
 Obrigado por contribuir com o PortfolioHUB. Este documento apresenta as práticas adotadas para manter o projeto seguro, organizado e alinhado aos padrões de desenvolvimento estabelecidos.
 
+# Guia de Contribuição e Segurança
+
+Obrigado por contribuir com o PortfolioHUB. Este documento apresenta as práticas adotadas...
+
+## 🛡️ Como reportar uma vulnerabilidade
+(o bloco novo)
+
+## ✅ Medidas de segurança adotadas
+(o bloco novo)
+
+## 🔒 Regras de Segurança da Branch Principal
+(o que você já tinha)
+
 ## 🔒 Regras de Segurança da Branch Principal
 
 A branch **main** representa a versão oficial publicada do projeto e, por isso, possui mecanismos de proteção para evitar alterações indevidas.
