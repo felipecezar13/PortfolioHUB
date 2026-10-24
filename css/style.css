@@ -64,3 +64,7 @@ a{color:inherit;text-decoration:none}
 }
 @media(max-width:480px){.g4,.g2{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}.reveal{opacity:1;transform:none}}
+/* Selo de status dos projetos */
+.status{display:inline-block;font-size:.75rem;font-weight:600;padding:3px 12px;border-radius:99px;margin-bottom:8px;border:1px solid}
+.status.andamento{color:#34D399;border-color:rgba(52,211,153,.5);background:rgba(52,211,153,.1)}
+.status.pausado{color:#FBBF24;border-color:rgba(251,191,36,.5);background:rgba(251,191,36,.1)}
