@@ -25,7 +25,7 @@ const SKILLS = {
     ['Análise de dados', null, '📊'],
     ['Microsoft Office', null, '🧑🏻‍💼'],
     ['Google Workspace', D('google/google-original')],
-    ['Desenvolvimento assistido por IA', null, '🤖'],
+    ['Desenvolvimento assistido por IA', null, '💻'],
     ['Automação de tarefas com IA', null, '⚙️']
   ],
   'Design e inteligência artificial': [
