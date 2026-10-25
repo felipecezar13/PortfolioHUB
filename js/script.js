@@ -7,7 +7,7 @@ const D = n => `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/${n}.svg`;
 const SKILLS = {
   'Linguagens e desenvolvimento': [['Python',D('python/python-original')],['SQL',null,'🗄️'],['C',D('c/c-original')],['HTML',D('html5/html5-original')],['CSS',D('css3/css3-original')],['JavaScript',D('javascript/javascript-original')],['Bash',D('bash/bash-original'),null,true]],
   'Dados e produtividade': [['Bancos de dados SQL',null,'🛢️'],['Análise de dados',null,'📊'],['Microsoft Office',null,'📝'],['Google Workspace',D('google/google-original')]],
-  'Design e inteligência artificial': [['Web design',null,'🎨'],['Figma',D('figma/figma-original')],['Engenharia de prompts com IA',null,'🤖']]
+  'Design e inteligência artificial': [['Desenvolvedor Web',null,'🎨'],['Figma',D('figma/figma-original')],['Engenharia de prompts com IA',null,'🤖']]
 };
 const wrap = document.getElementById('skills');
 for (const [cat, items] of Object.entries(SKILLS)) {
